@@ -1,6 +1,6 @@
 # aoapc-bac2nd_practice
 The practice of book aoapc-bac2nd
-#说明
+#Description
   * Source codes for book <<<BeginningAlgorithmContests>> Second edition
   * EX means example problems in book
 
