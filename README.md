@@ -12,6 +12,7 @@ The practice of book aoapc-bac2nd
   * 2-4 subsequence
   * 2-5 decimal
   * 2-6 permutation
+  
 ##Chapter 3
   * EX 3-1 TEX_Quotes_UVa272
   * EX 3-2 WERTYU_UVa10082
